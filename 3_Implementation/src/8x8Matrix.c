@@ -1,5 +1,5 @@
 /**
- * @file calculator.c
+ * @file 8x8Matrix.h
  * @author Kavin Vignes
  * @brief 
  * @version 0.1
