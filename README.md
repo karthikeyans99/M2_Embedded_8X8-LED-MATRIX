@@ -15,3 +15,7 @@ A simple 8x8 LED Matrix interfacing to display the English characters using the 
 [![Build Status](https://github.com/karthikeyans99/M2_Embedded_8X8-LED-MATRIX/actions/workflows/compile.yml/badge.svg)](https://github.com/karthikeyans99/M2_Embedded_8X8-LED-MATRIX/actions/workflows/compile.yml) 
 
 [![Cppcheck](https://github.com/karthikeyans99/M2_Embedded_8X8-LED-MATRIX/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/karthikeyans99/M2_Embedded_8X8-LED-MATRIX/actions/workflows/cppcheck.yml)
+
+## Code Grade
+
+![Codacy Badge](https://api.codiga.io/project/30189/status/svg)
