@@ -14,7 +14,7 @@
 #include <stdint.h>
 #include <avr/io.h>
 #include <util/delay.h>
-#include "led.h"
+#include "lcd.h"
 #include "stack.h"
 #include "keypad.h"
 
