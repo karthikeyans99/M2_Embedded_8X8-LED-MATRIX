@@ -21,5 +21,8 @@ The Behavioural Diagram represents the behavioural working characteristics of th
 
 ## Simulations
 
-<img width="759" alt="8x8Led_Mat" src="https://user-images.githubusercontent.com/94226292/144199910-fcbed9e6-3b9e-48ee-a30e-3641efe39d7f.png">
+![SimulIDE-0 4 15-SR9  -  New Circuit_ 01-12-2021 23_27_18](https://user-images.githubusercontent.com/94226292/144288159-4ac1fcc8-c046-4f35-8cf7-fbfd20ecba2a.png)
+
+
+
 
