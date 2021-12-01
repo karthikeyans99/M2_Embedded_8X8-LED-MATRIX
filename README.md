@@ -3,22 +3,12 @@
 
 ## Introduction
 ------------
-A simple 8x8 LED Matrix interfacing to display the English characters using the AVR toolchain without the Arduino IDE.
+A simple 8x8 LED Matrix interfacing to display the English characters using the AVR toolchain without the Arduino IDE.The 8x8 Matrix is a great way to add a square of light to just about anything, or even make a screen of a custom shape.This allows for incredibly tight pixel densities, and thus, a screen with less pixelation. 
 
-## Hardware
---------
-* USB Type A to Type B cable
-* Arduino Uno with the Atmel ATmega328p microcontroller.
-* 8x8 LED Martrix
-* 16 1k Resistor
-## Code Build 
-[![Build Status](https://github.com/karthikeyans99/M2_Embedded_8X8-LED-MATRIX/actions/workflows/compile.yml/badge.svg)](https://github.com/karthikeyans99/M2_Embedded_8X8-LED-MATRIX/actions/workflows/compile.yml) 
-
-[![Cppcheck](https://github.com/karthikeyans99/M2_Embedded_8X8-LED-MATRIX/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/karthikeyans99/M2_Embedded_8X8-LED-MATRIX/actions/workflows/cppcheck.yml)
-
-## Code Grade
-
-![Codacy Badge](https://api.codiga.io/project/30189/status/svg)
+## Badges
+|Build|Cppcheck|Codacy|
+|:--:|:--:|:--:|
+[![Build Status](https://github.com/karthikeyans99/M2_Embedded_8X8-LED-MATRIX/actions/workflows/compile.yml/badge.svg)](https://github.com/karthikeyans99/M2_Embedded_8X8-LED-MATRIX/actions/workflows/compile.yml) | [![Cppcheck](https://github.com/karthikeyans99/M2_Embedded_8X8-LED-MATRIX/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/karthikeyans99/M2_Embedded_8X8-LED-MATRIX/actions/workflows/cppcheck.yml) | ![Codacy Badge](https://api.codiga.io/project/30189/status/svg)
 
 ## Folder Structure
 Folder             | Description
